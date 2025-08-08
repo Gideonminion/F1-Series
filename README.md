@@ -26,7 +26,7 @@ You can install them via pip:
 
 ```bash
 pip install fastf1 pandas numpy scikit-learn
-
+```
 
 General Breakdown
 1. Installation and Imports
