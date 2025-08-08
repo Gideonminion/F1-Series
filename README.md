@@ -73,4 +73,7 @@ A ranked table of drivers by predicted race times.
 The MAE indicating prediction accuracy.
 
 Prediction + Sector Timing
+
+``` 
 Next Work: Incorporate pitstop timing, weather data for more granular predictions.
+```
